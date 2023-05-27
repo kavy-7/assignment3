@@ -1,0 +1,23 @@
+Q1) What is Git?
+Ans-Git is various contol System.
+
+Q2) What do you understand by the term Version control System?
+Ans-Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+
+Q3) What is GitHub?
+Ans-GitHub is a cloud-based Git repository hosting service.
+
+Q4)Mention some popular Git hosting services?
+Ans-1)Github 2)Gitlab 3)SourceForge
+
+Q5) Different type of verIion control system?
+Ans-1)Centralised VCS 2)Distibuted VCS
+
+Q6)What bennifit come with using GIT?
+Ans-1)Save time 2)Track Changes 3)Undo mistakes 4)Offline working
+
+Q7)What is a Git repository?
+Ans-A Git repository tracks and saves the history of all changes made to the files in a Git project.
+
+Q8) How can you initialize a repository in Git?
+Ans-Using git init
